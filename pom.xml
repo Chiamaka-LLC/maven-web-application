@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>tesla-web-releases</name>
-	      <url>http://172.31.22.146:8081/repository/tesla-web/</url>
+	      <url>http://52.90.71.46:8081/repository/tesla-web/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla-webapp-snapshots</name>
-	      <url>http://172.31.22.146:8081/repository/tesla-web-snapshots/</url>
+	      <url>http://52.90.71.46:8081/repository/tesla-web-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
